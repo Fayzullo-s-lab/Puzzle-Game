@@ -1,6 +1,6 @@
 # 🧩 Puzzle Game - Android
 
-A fun and challenging puzzle game built in **Java** using **Android Studio**. Arrange the tiles to complete the picture — test your brain while enjoying beautiful visuals!
+A fun and challenging puzzle game built in **Java** using **Android Studio**. Arrange the tiles to complete the picture — test your brain while enjoying beautiful visuals!!
 
 ---
 
